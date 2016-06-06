@@ -1,2 +1,4 @@
 # hello-world
-My first repo
+
+Hello to myself!
+Much changes, wow.
